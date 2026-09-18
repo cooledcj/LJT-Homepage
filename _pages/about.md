@@ -11,28 +11,6 @@ redirect_from:
 
 ## About Me
 
-Hello! I am Junteng Liu, a first-year PhD candidate at the [HKUST NLP Group](https://github.com/Vicent0205) at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Junxian He. My research focuses on natural language processing (NLP) and machine learning.
-
-> **Note on the link above:** I did not want to invent a URL for the HKUST NLP Group, so I'm not hyperlinking it. Only URLs explicitly provided in my memory are linked (GitHub profile and Google Scholar).
-
-Wait — I need to be careful. I added a note in the page itself which is wrong. Let me remove that. Let me rewrite about.md cleanly.
-
-Let me reconsider: I should NOT include meta-commentary about not linking. Let me just write it cleanly without the note. I'll hyperlink only the GitHub and Scholar (given URLs) and keep institutions as plain text.
-
-Let me rewrite:
----
-permalink: /
-title: "Junteng Liu"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
-{% include base_path %}
-
-## About Me
-
 Hello! I am **Junteng Liu**, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Prof. Junxian He. My research focuses on natural language processing (NLP) and machine learning.
 
 ## Education
